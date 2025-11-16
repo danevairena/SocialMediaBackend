@@ -58,46 +58,46 @@ Below is the full database structure used by the backend:
 
 ## BPMN Process Flows
 ### Login
-![Login](./BPMN/log in.png)
+![Login](./BPMN/LogIn.png)
 
 ### Register
-![Register](./BPMN/register.png)
+![Register](./BPMN/Register.png)
 
 ### View Feed
-![View Feed](./BPMN/view feed.png)
+![View Feed](./BPMN/Feed.png)
 
 ### New Post
-![New Post](./BPMN/new post.png)
+![New Post](./BPMN/NewPost.png)
 
 ### Edit Post
-![Edit Post](./BPMN/edit post.png)
+![Edit Post](./BPMN/EditPost.png)
 
 ### Delete Post
-![Delete Post](./BPMN/delete post.png)
+![Delete Post](./BPMN/DeletePost.png)
 
 ### Comment Post
-![Comment](./BPMN/comment post.png)
+![Comment](./BPMN/CommentPost.png)
 
 ### Delete Comment
-![Delete Comment](./BPMN/delete comment.png)
+![Delete Comment](./BPMN/DeleteComment.png)
 
 ### Like / Unlike
-![Like](./BPMN/like-unlike post.png)
+![Like](./BPMN/Like-Unlike.png)
 
 ### Follow / Unfollow
-![Follow](./BPMN/follow-unfollow profile.png)
+![Follow](./BPMN/Follow-Unfollow.png)
 
 ### View Profile
-![Profile](./BPMN/view profile.png)
+![Profile](./BPMN/ViewProfile.png)
 
 ### Edit Profile
-![Edit Profile](./BPMN/edit profile.png)
+![Edit Profile](./BPMN/EditProfile.png)
 
 ### Search
-![Search](./BPMN/profile search.png)
+![Search](./BPMN/ProfileSearch.png)
 
 ### Notifications
-![Notifications](./BPMN/view notifications.png)
+![Notifications](./BPMN/ViewNotifications.png)
 
 ---
 
