@@ -101,7 +101,7 @@ Below is the full database structure used by the backend:
 
 ---
 
-## Basic API Endpoints (Main Only)
+## Basic API Endpoints
 
 ### **Auth**
 | Method | Endpoint | Description |
@@ -126,18 +126,26 @@ Below is the full database structure used by the backend:
 | GET | `/api/posts/feed/:id` | Get user feed |
 
 ### **Likes**
+| Method | Endpoint | Description |
+|--------|----------|-------------|
 | POST | `/api/likes/:postId` | Like post |
 | DELETE | `/api/likes/:postId` | Unlike post |
 
 ### **Comments**
+| Method | Endpoint | Description |
+|--------|----------|-------------|
 | POST | `/api/comments/:postId` | Add comment |
 | DELETE | `/api/comments/:commentId` | Delete comment |
 
 ### **Follow**
+| Method | Endpoint | Description |
+|--------|----------|-------------|
 | POST | `/api/follow/:id` | Follow user |
 | DELETE | `/api/follow/:id` | Unfollow user |
 
 ### **Chat**
+| Method | Endpoint | Description |
+|--------|----------|-------------|
 | GET | `/api/chat/:userId` | Get conversation |
 | POST | `/api/chat/send` | Send message |
 
